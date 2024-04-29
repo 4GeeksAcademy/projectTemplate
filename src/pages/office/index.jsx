@@ -2,7 +2,7 @@ import { Login } from "@/components/Login";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import { Navbar } from "@/components/NavBar";
 
-export default function Home() {
+export default function OfficeIndex() {
   return (
     <Container>
       <Navbar />
